@@ -27,6 +27,7 @@
             android:id="@+id/editTextAttivita"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_gravity="center"
             android:layout_weight="1"
             android:ems="10"
             android:hint="nome attività"
@@ -36,7 +37,6 @@
             android:id="@+id/buttonRegistra"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_gravity="center"
             android:layout_weight="0"
             android:text="Registra Attività" />
 
